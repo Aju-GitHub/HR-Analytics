@@ -10,7 +10,7 @@
 
 **Repository Structure:**
 
-Product-Analyst-and-Web-Developer_Horizon_Health_Care/
+HR_Analytics/
 
 /- HR Analytics Data.csv - Dataset
 
